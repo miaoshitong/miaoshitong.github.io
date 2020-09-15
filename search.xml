@@ -1,15 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo-Github搭建博客过程</title>
+    <url>/post/e8355efa.html</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>起初也是心血来潮想弄个博客玩，以前也有过这种想法，于是为了不再拖延，就立马行动起来了。这个博客搭建的磕磕绊绊的，但最后还是弄出来了，很简单，就是很琐碎，花费了七天，当然也是抽空弄得。中间进过很多坑，有一些细微的地方没有注意就会出错导致网页刷不出来，而且有些教程发布的有些许久远，不太适合现在的环境，耽误了很多时间。博客是根据我目前（2020年9月）的Next的版本（v7.8.0）并基于Github搭建的，所以，你首先要有个<a href="https://github.com/">Github</a>账号！</p>
+<a id="more"></a>
+
+<h1 id="Github"><a href="#Github" class="headerlink" title="Github"></a>Github</h1><p>Github是一个开源的平台，里面有很多程序员开发的代码可以共享，我们的个人博客就托管于github这个平台。为什么选择github呢？因为穷啊！！！在搭建这个博客的前一天，突然看到阿里云的轻量应用服务器需要交费三个月及以上才能给我注册的域名备案（域名注册后需要三天才能备案），域名阿里云新用户第一年6元，往后是69¥/年，轻量型服务器（1核CPU、1GB内存、1Mbps带宽、20GB SSD）配置费用一年612¥，果断告辞，个人玩家不配拥有！！！</p>
+<p>这时，github映入我的眼帘，在参考网上诸多博客之后，就它了。毕竟有个闲置N年的github账号一直没机会用，机会终于来了，看吧，成功是给有准备的人的！关于github注册账号，没有的人简单注册一个就行，不用太花里胡哨，用英文名或者中文名拼音当用户名方便点，这个用户名就是你个人博客网址的主体部分，比如我的:<code>miaoshitong.github.io</code>  ,有域名的后期博客建好了可以解析一下，这样域名也能登你博客，不过目前阶段暂不需要。</p>
+<h2 id="Jekyll-amp-Hexo"><a href="#Jekyll-amp-Hexo" class="headerlink" title="Jekyll &amp; Hexo"></a>Jekyll &amp; Hexo</h2><p>选好博客的托管平台了，后面就是选择适合的博客框架。网上看用的比较多的有 Jekyll和Hexo，下面分别简单介绍一下吧。</p>
+<h3 id="Jekyll"><a href="#Jekyll" class="headerlink" title="Jekyll"></a>Jekyll</h3><p><a href="http://jekyllthemes.org/">Jekyll官网</a>提供的主题不好看(个人观点)。</p>
+<h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><p><a href="https://hexo.io/zh-cn/">Hexo官网</a>提供的主题好看(很多人观点)。</p>
+<h3 id="你的选择"><a href="#你的选择" class="headerlink" title="你的选择"></a>你的选择</h3><p>经过上面详细的对比，你一定选的也是Hexo，所以我们有了共同的基础，可以进行下一步了。目前Hexo有324款主题，但作为初次尝试建博客的小白（是我）来说，还是遵从一下主流的选择：<strong>Next</strong>，你选不了吃亏，选不了上当，很多博主的博客都是根据Next改的，到时候可以一点一点模仿，减少犯错成本。</p>
+<h4 id="安装-Git"><a href="#安装-Git" class="headerlink" title="安装 Git"></a>安装 Git</h4><p>先根据你电脑安装个<a href="https://git-scm.com/download/win">git</a>，后面需要一些指令来简化博客搭建过程。下载之后，一直<code>next</code>就可以了。安装后在Hexo文件夹右键单击选择<code>Git Bash Here</code>，会出现一个可以输入代码的小黑框，常用的命令如下：</p>
+<table>
+<thead>
+<tr>
+<th>代码</th>
+<th>作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>$ hexo n &quot;博客名称&quot;</code></td>
+<td>创建新文章</td>
+</tr>
+<tr>
+<td><code>$ hexo clean</code></td>
+<td>清除缓存网页</td>
+</tr>
+<tr>
+<td><code>$ hexo g</code></td>
+<td>生成静态网页</td>
+</tr>
+<tr>
+<td><code>$ hexo s</code></td>
+<td>本地预览网页（<a href="http://localhost:4000），还可以通过程序反馈找出错误地方">http://localhost:4000），还可以通过程序反馈找出错误地方</a></td>
+</tr>
+<tr>
+<td><code>$ hexo d</code></td>
+<td>部署到Github，即发布网页正常浏览</td>
+</tr>
+</tbody></table>
+<p>一般操作就是<code>clean、g、s</code>三连，没啥问题就<code>$ hexo d</code></p>
+<h4 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h4><p>接下来就需要安装Hexo了，<a href="https://hexo.io/zh-cn/">官方</a>有教程，同时也找了一个比较清晰易懂的<a href="https://www.mintimate.cn/2020/03/19/hexo/">博客</a>可以学习。</p>
+<h1 id="Next"><a href="#Next" class="headerlink" title="Next"></a>Next</h1><h2 id="Next安装"><a href="#Next安装" class="headerlink" title="Next安装"></a>Next安装</h2><p>接下来就是安装博客主题Next了，在Hexo文件夹里有个themes文件夹，里面的默认主题是landscape，通过git下载好Next后，把landscape文件夹删除，并且把next文件夹下面有个名字有git的文件夹也删除，起初两天主题更改不成功问题就出在这里，经过多方面资料查找，算是解决了。</p>
+<h2 id="Next配置"><a href="#Next配置" class="headerlink" title="Next配置"></a>Next配置</h2><p>最主要一点，很多教程提及的<code>.swig</code>文件在新版Next中找不到，没关系，经过我的探索，应该就是后缀名<code>.njk</code>的相应文件，打开方式<code>记事本</code>就能编辑了。</p>
+<p>新版的Next里面没有<code>_custom.styl</code>文件，很多教程在配置Next的时候会用到，没关系，来看下<a href="https://tding.top/archives/2bd6d82.html">大佬的博客</a>，有解决方法。</p>
+<p>还有一点，对小白（是我）来说，刚开始可能分不清，关于博客的配置有两个地方，一个是hexo文件夹下面的<code>_config.yml</code>文件，这个叫<code>站点配置</code>，还有一个是themes中<code>next</code>文件夹下面的<code>_config.yml</code>文件，这个地方叫<code>主题配置</code>，相应的配置细节问题网上搜素一下就可以自定义了。</p>
+<p>在配置完成的时候，一定先<code>$ hexo s</code>本地预览一下，代码有错误在小黑框里能看出来，会有相应的提示，根据说明来把问题解决，没有问题本地预览一下也能让小白（是我）安心，部署到github出错就很慌，预览也就几秒不耽搁事。</p>
+<p>最让我惊喜的地方是，在Hexo搭建博客页面还可以插入<a href="https://www.cnblogs.com/cczlovexw/p/12214618.html">2D模型</a>，22款模型，总有一款适合你。</p>
+<h1 id="博客建好了"><a href="#博客建好了" class="headerlink" title="博客建好了"></a>博客建好了</h1><p>流程很简单，但是对没接触过的人来说会有些陌生，尝试两三天就会对这个有个大致了解，能把博客搭建出来。不过博客也不用太花哨，内容最重要，还要坚持记录才行，大概的框架搭好，看着顺眼，就可以使用了！</p>
+]]></content>
+      <categories>
+        <category>-学习笔记</category>
+      </categories>
+      <tags>
+        <tag>-Hexo -Github -博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>开局艰难</title>
-    <url>/2020/09/07/third/</url>
+    <url>/post/a04bbd1f.html</url>
     <content><![CDATA[<p>怎么说呢，这个博客建立的还是挺难得，花费时间太久，界面我也不满意，后续很多工作要弄，加油吧！</p>
 <a id="more"></a>
 
 <p>且行且珍惜。。。</p>
 <p>下面微信，欢迎有趣的人~~</p>
 <div align="center">    
-<img src="/2020/09/07/third/miaoshitong.wechat.jpg" class title="Wechat">
+<img src="/post/a04bbd1f/miaoshitong.wechat.jpg" class title="Wechat">
 </div>
 
 ]]></content>
@@ -23,7 +81,7 @@
   </entry>
   <entry>
     <title>第二个博客！</title>
-    <url>/2020/09/07/%E5%8F%91%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%8D%9A%E5%AE%A2%E4%BA%86%EF%BC%81/</url>
+    <url>/post/99cefda3.html</url>
     <content><![CDATA[<p>过几天把这个博客建立过程给写一下，帮助后来人不踩坑。小白之间的相互搀扶吧，大神们看看就好，有问题也欢迎指出！</p>
 ]]></content>
       <categories>
@@ -36,7 +94,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2020/09/07/hello-world/</url>
+    <url>/post/4a17b156.html</url>
     <content><![CDATA[<p>老实说，看到Hello World很亲切，在大学的时候，第一次接触编程就看到这两个词，但很遗憾的是，当时没有坚持学下来，要不然五六年过去我现在应该能独立编写程序了，弄这个博客也不在话下。难受的是，这个博客花了我三天时间，原本给大论文的时间都被挤占了，心痛！</p>
 <a id="more"></a>
 
