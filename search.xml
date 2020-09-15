@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>开局艰难</title>
+    <url>/2020/09/07/2020-09-07-01/</url>
+    <content><![CDATA[<p>怎么说呢，这个博客建立的还是挺难得，花费时间太久，界面我也不满意，后续很多工作要弄，加油吧！</p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>试验</tag>
+        <tag>博客建立</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>第三个博客！</title>
     <url>/2020/09/07/%E5%8F%91%E7%AC%AC%E4%B8%89%E4%B8%AA%E5%8D%9A%E5%AE%A2%E4%BA%86%EF%BC%81/</url>
     <content><![CDATA[<p>过几天把这个博客建立过程给写一下，帮助后来人不踩坑。小白之间的相互搀扶吧，大神们看看就好，有问题也欢迎指出！</p>
 ]]></content>
       <categories>
-        <category>数据分析</category>
-        <category>实战</category>
+        <category>学习笔记</category>
       </categories>
       <tags>
-        <tag>Python</tag>
-        <tag>数据分析</tag>
+        <tag>试验</tag>
+        <tag>博客建立</tag>
       </tags>
   </entry>
   <entry>
@@ -24,14 +36,12 @@
 <p>下面微信，欢迎有趣的人~~</p>
 <p><img src="/2020/09/07/hello-world/miaoshitong.wechat.jpg" alt="Wechat"></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>开局艰难</title>
-    <url>/2020/09/07/2020-09-07-01/</url>
-    <content><![CDATA[<p>怎么说呢，这个博客建立的还是挺难得，花费时间太久，界面我也不满意，后续很多工作要弄，加油吧！</p>
-]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
       <tags>
-        <tag>生活记录</tag>
+        <tag>博客建立</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>
