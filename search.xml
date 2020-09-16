@@ -3,7 +3,13 @@
   <entry>
     <title>文章发布与同步</title>
     <url>/post/7a850dae.html</url>
-    <content><![CDATA[<h1 id="新建文档"><a href="#新建文档" class="headerlink" title="新建文档"></a>新建文档</h1><p>创建新文章</p>
+    <content><![CDATA[<p>主要把刚开始写博客需要用的一些简单代码放在这里，方便使用，我用的是Typora，界面简洁，很好操作。（备注：下图。今天本科生开学典礼，疫情原因，各学院分别进行，没有像往年一样统一进行）</p>
+ <div align="center"><img src="/post/7a850dae/001.jpg" class title="你好">
+      </div>
+
+  <a id="more"></a>
+
+<h1 id="新建文档"><a href="#新建文档" class="headerlink" title="新建文档"></a>新建文档</h1><p>创建新文章</p>
 <p><code>hexo new 文章名</code></p>
 <h1 id="标签设置"><a href="#标签设置" class="headerlink" title="标签设置"></a>标签设置</h1><p><code>tags:</code></p>
 <p><code>categories:</code></p>
@@ -14,10 +20,8 @@
 <p> 阅读更多</p>
 <p>​     <code>&lt;!--more--&gt;</code></p>
 <hr>
-<p>插入（居中）图片，要在<code>_posts</code>文件夹内生成相应文章名的文件夹，配置过可自动生成，把图片放里面就行</p>
-<p>`<div align="center">    </div></p>
-`
-<p><code>&lt;/div&gt;</code></p>
+<p>插入图片，要在<code>_posts</code>文件夹内生成相应文章名的文件夹，配置过可自动生成，把图片放里面就行，可以吧图片代码放在居中代码里。</p>
+<p><code>&#123;% asset_img 图片名称.jpg 加载不出来显示的文字 %&#125;</code></p>
 <hr>
 <p>右对齐</p>
 <p> <code>&lt;p align=&quot;right&quot;&gt;内容&lt;/p&gt;</code>              </p>
