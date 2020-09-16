@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>文章发布与同步</title>
+    <url>/post/7a850dae.html</url>
+    <content><![CDATA[<h1 id="新建文档"><a href="#新建文档" class="headerlink" title="新建文档"></a>新建文档</h1><p>创建新文章</p>
+<p><code>hexo new 文章名</code></p>
+<h1 id="标签设置"><a href="#标签设置" class="headerlink" title="标签设置"></a>标签设置</h1><p><code>tags:</code></p>
+<p><code>categories:</code></p>
+<p>其他标签设置过会自动生成</p>
+<h1 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h1><p>文字居中 </p>
+<p> <code>&lt;div align = &quot;center&quot;&gt;内容&lt;/div&gt;</code></p>
+<hr>
+<p> 阅读更多</p>
+<p>​     <code>&lt;!--more--&gt;</code></p>
+<hr>
+<p>插入（居中）图片，要在<code>_posts</code>文件夹内生成相应文章名的文件夹，配置过可自动生成，把图片放里面就行</p>
+<p>`<div align="center">    </div></p>
+`
+<p><code>&lt;/div&gt;</code></p>
+<hr>
+<p>右对齐</p>
+<p> <code>&lt;p align=&quot;right&quot;&gt;内容&lt;/p&gt;</code>              </p>
+<h1 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h1><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">master -负责展示静态网页</span><br><span class="line">hexo -备份本地hexo文件</span><br></pre></td></tr></table></figure>
+
+<p>以下都在hexo分支进行</p>
+<hr>
+<p>hexo分支更新（只是把最新的部署文件上传到了GitHub中，但是并没有对其渲染）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git add . <span class="comment">#添加所有文件到暂存区，或者git add source，因为只更新一篇文章，其他配置没变</span></span><br><span class="line">git commit -m 新增博客文章  <span class="comment">#提交</span></span><br><span class="line">git push origin hexo <span class="comment">#推送hexo分支到Github</span></span><br></pre></td></tr></table></figure>
+
+<hr>
+<p>master分支更新（渲染）</p>
+<p><code>hexo clean</code></p>
+<p><code>hexo d -g</code>     d和g可同时进程</p>
+<hr>
+<h1 id="更换电脑脑后的同步"><a href="#更换电脑脑后的同步" class="headerlink" title="更换电脑脑后的同步"></a>更换电脑脑后的同步</h1><p>  更换的电脑环境（<code>git</code>、<code>node.js</code>、<code>Hexo</code>）配置好后，把hexo分支<code>git clone</code>下来，</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git clone -b hexo git@github.com:yourname&#x2F;yourname.github.io.git  &#x2F;&#x2F;将Github中hexo分支clone到本地</span><br><span class="line">cd  yourname.github.io  &#x2F;&#x2F;切换到刚刚clone的文件夹内</span><br><span class="line">npm install    &#x2F;&#x2F;注意，这里一定要切换到刚刚clone的文件夹内执行，安装必要的所需组件，不用再init</span><br><span class="line">git pull origin hexo  &#x2F;&#x2F;先pull完成本地与远端的融合，即同步更新</span><br><span class="line">hexo new post &quot;new blog name&quot;   &#x2F;&#x2F;新建一个.md文件，并编辑完成自己的博客内容</span><br><span class="line">git add source  &#x2F;&#x2F;经测试每次只要更新source中的文件到Github中即可，因为只是新建了一篇新博客</span><br><span class="line">git commit -m &quot;新文章名&quot;</span><br><span class="line">git push origin hexo  &#x2F;&#x2F;更新分支</span><br><span class="line">hexo d -g   &#x2F;&#x2F;push更新完分支之后将自己写的博客对接到自己搭的博客网站上，同时同步了Github中的master</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Github</tag>
+        <tag>文章发布</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>第二个博客！</title>
     <url>/post/99cefda3.html</url>
     <content><![CDATA[<p>过几天把这个博客建立过程给写一下，帮助后来人不踩坑。小白之间的相互搀扶吧，大神们看看就好，有问题也欢迎指出！</p>
