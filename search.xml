@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>第二个博客！</title>
+    <url>/post/99cefda3.html</url>
+    <content><![CDATA[<p>过几天把这个博客建立过程给写一下，帮助后来人不踩坑。小白之间的相互搀扶吧，大神们看看就好，有问题也欢迎指出！</p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>博客建立</tag>
+        <tag>试验</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>开局艰难</title>
+    <url>/post/a04bbd1f.html</url>
+    <content><![CDATA[<p>怎么说呢，这个博客建立的还是挺难得，花费时间太久，界面我也不满意，后续很多工作要弄，加油吧！</p>
+<a id="more"></a>
+
+<p>且行且珍惜。。。</p>
+<p>下面微信，欢迎有趣的人~~</p>
+<div align="center">    
+<img src="/post/a04bbd1f/miaoshitong.wechat.jpg" class title="Wechat">
+</div>
+
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>博客建立</tag>
+        <tag>试验</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/post/4a17b156.html</url>
+    <content><![CDATA[<p>老实说，看到Hello World很亲切，在大学的时候，第一次接触编程就看到这两个词，但很遗憾的是，当时没有坚持学下来，要不然五六年过去我现在应该能独立编写程序了，弄这个博客也不在话下。</p>
+<a id="more"></a>
+
+<p>难受的是，这个博客花了我三天时间，原本给大论文的时间都被挤占了，心痛！不过还是很开心把这个博客雏形给弄出来，作为一个研究生，这点自学能力还是有的！后面就是不断完善啊，然后把它弄漂亮一点！</p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>博客建立</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>test2</title>
     <url>/post/13bb8d58.html</url>
     <content><![CDATA[<p>master分支上传</p>
@@ -12,5 +62,147 @@
     <content><![CDATA[<p>试验同步</p>
 <p>hexo分支</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>文献阅读-2020-9-16</title>
+    <url>/post/7f0709f7.html</url>
+    <content><![CDATA[<blockquote>
+<div align="center">大数据行为研究趋势：一个“时空关”的视角</div>
+
+<div align="center">贾建民，耿维，徐戈，郝辽钢，贾轼</div>
+
+<div align="center">DOI：10.19744/j.cnki.11-1235/f.2020.0024 </div>
+</blockquote>
+<a id="more"></a>
+
+<h1 id="研究意义"><a href="#研究意义" class="headerlink" title="研究意义"></a>研究意义</h1><p>基于城市公交刷卡数据、滴滴订单数据、铁路客运数据、移动通讯数据等，从“时空关”的视角，研究了人们流动的时空关系和流动行为及其对环境的影响、流动行为的社会关联特征和社会网络对流动性的影响、社会网络的嵌入性和进化机制及对应急通讯的影响以及社会网络对利他行为的影响。</p>
+<h1 id="研究方法"><a href="#研究方法" class="headerlink" title="研究方法"></a>研究方法</h1><p>双重差分方法</p>
+<h1 id="论文摘要"><a href="#论文摘要" class="headerlink" title="论文摘要"></a>论文摘要</h1><p>本文从时间、空间、关联（Time-Space-Connections）3 个维度，即“时空关”视角，聚焦人们的流动性和关联性以及两者之间的关系。</p>
+<div align="center">    
+<img src="/post/7f0709f7/01.png" class title="Wechat">
+</div>
+
+
+
+
+<ol>
+<li>在移动互联网、社交网络、物联网等新兴信息技术的支持下，人们的个体行为与组织行为均呈现出鲜明的网络化特征。</li>
+<li>流动性，即人们在空间和时间上的位移，是人类生活与工作的必要条件，并影响着人们的各种行为；而关联性，即人与人之间通过血缘、婚姻、工作、同学以及朋友等各种关系相连接，描绘出人类社会的结构特征。</li>
+<li>“时空关”决定或影响着人们的各种行为，从人们的流动行为和社会关联角度去分析交通拥堵、城市规划、公共政策、应急管理、病菌传播等问题，可以获得更多的洞察。</li>
+<li>“六度分隔”是社会网络领域早期最重要的猜想：世界上任何两个人都可以通过一系列彼此认识的人（5个人6条边）连接起来，即所谓的“小世界”现象。</li>
+<li>社会网络节点之间的连接强度（联系的频繁程度）同样具有幂律分布的特征，即每个节点除了少数的强关系，其余大部分都是弱关系。</li>
+<li>Onnela 等（2007）应用手机通讯数据研究了关系强度与网络局部结构之间的耦合关系，发现如果去掉强关系，社会网络的结构依然稳健；但如果把弱关系去掉，整个网络就会崩溃。</li>
+<li>Aral 和 Walker（2014）在 Facebook 平台上采用大规模随机实验来研究关系强度和各种网络结构嵌入对朋友之间产品采纳的社会影响力，发现结构嵌入起着重要作用。</li>
+<li>Aral 和 Walker（2012）基于 130 万 Facebook 用户开展了有关产品采用的随机实验，发现影响力和易感性这两者往往不能兼得，即具有较强影响力的人不易受他人影响，而易受影响的人往往又缺少影响力。另外，他们的研究还显示，年轻人比年长的人更易受他人影响；男性的影响力比女性高 49%，但女性对男性的影响力比对同性的影响力高 46%；已婚人士受他人影响的程度最低；同龄人间的影响力最大（高出基准线 97%）。</li>
+<li>Ren 等 （2019）从另外一个角度研究显示，通过移除社会网络中一些节点可以有效地摧毁网络的功能，这在控制腐败、犯罪、疫情、谣言传播等领域有广泛的应用价值。</li>
+<li>城市交通拥堵和环境污染是我国政府和公众近年来最为关注的两大议题。从人们流动行为的角度来研究城市交通拥堵与空气污染之间的关系，是一个全新的研究课题。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>文献阅读</category>
+        <category>《管理世界》</category>
+      </categories>
+      <tags>
+        <tag>大数据</tag>
+        <tag>流动性</tag>
+        <tag>社会网络</tag>
+        <tag>时空关</tag>
+        <tag>行为研究</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年1至9月观影记录</title>
+    <url>/post/4116090.html</url>
+    <content><![CDATA[<blockquote>
+<div align="center">And then you shot across my sky like a meteor.</div>
+<div align="center">Suddenly everything was on fire; there was brilliancy, there was beauty. </div>
+<div align="center">When you were gone, when the meteor had fallen over the horizon, everything went black. </div>
+<div align="center">Nothing had changed, but my eyes were blinded by the light.</div>
+<div align="center">I couldn't see the stars anymore.</div>          <p align="right">——Stephenie Meyer《The Twilight Saga： New Moon》</p>              
+</blockquote>
+<a id="more"></a>
+
+<p>这3/4年看了太多的影视剧，时间有些浪费了，但如果能把这些都整理下来，写一点影评、观后感，形成系统的、有条理的内容，对自己写作上的提升还是挺不错的。有些电影确实值得一看，比如暮光之城系列、肖申克的救赎等，但有些就比较无脑，不想再接着看了（下面看了开头的电视剧是没时间看，先放那里了）。还有些英美剧（<a href="http://xijing.tv/movie/detail?serial=45">sex education</a>）尺度比较大，但并不下流、色情，反而充满了温暖浪漫，还是很推荐看一看的。九月份新学期，也是我研究生最后一年了，要把更多的精力放在论文、英语学习相关的事情上，影视剧能少看就少看了，还是要对自己负责一些。</p>
+<h1 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h1><p>[1]囧妈126 min<br>[2]叶问4：完结篇107 min<br>[3]宠爱108 min<br>[4]终结者：黑暗命运128 min<br>[5]情圣99 min<br>[6]加勒比海盗1：黑珍珠号的诅咒143 min<br>[7]加勒比海盗2：聚魂棺151 min<br>[8]加勒比海盗3：世界的尽头169 min<br>[9]加勒比海盗5：死无对证129 min<br>[10]流感121 min<br>[11]只有芸知道132 min<br>[12]倒忌时90 min<br>[13]沉默的羔羊118 min<br>[14]大天蓬 101 min（2020年3月19日）<br>[15]僵尸世界大战 123 min（2020年3月28日）<br>[16]暮光之城 121 min（2020年4月1日）<br>[17]暮光之城2：新月 130 min（2020年4月2日）<br>[18]暮光之城3：月食 123 min（2020年4月3日）<br>[19]大赢家2020 97 min（2020年4月3日）<br>[20]肥龙过江2020 96 min（2020年4月5日）<br>[21]狩猎 90 min（2020年4月24日）<br>[22]肖申克的救赎 141 min（2020年4月24日）<br>[23]醉拳2 102 min（2020年5月8日）<br>[24]饥饿游戏 142 min（2020年5月11日）<br>[25]巨鳄风暴 87 min（2020年5月13日）<br>[26]异形 115 min（2020年5月18日）<br>[27]异形2 154 min（2020年5月19日）<br>[28]异形3 144 min（2020年5月20日）<br>[29]异形4 114 min（2020年5月20日）<br>[30]豪门夜宴 95 min（2020年5月25日）<br>[31]老九门之四屠黄葵 76 min（2020年6月2日）<br>[32]老九门番外之虎骨梅花 88 min（2020年6月3日）<br>[33]集结号 123 min（2020年6月23日）<br>[34]猎谎者 93 min (2020年7月4日）<br>[35]跳舞吧！大象 114 min（2020年7月12日）<br>[36]陆行鲨 74 min（2020年7月28日）<br>[37]零号犯人 106 min（2020年7月31日）<br>[38]活着 97 min（2020年8月6日）<br>[39]见龙卸甲 101 min （2020年8月27日）<br>[40]哈利波特与混血王子 153 min （2020年8月28日）<br>[41]小丑回魂2 169 min （2020年9月11日）<br>[42]花木兰 110 min （2020年9月11日）</p>
+<div align="center">    
+<img src="/post/4116090/01.jpg" class title="Wechat">
+</div>
+
+
+
+<h1 id="电视剧"><a href="#电视剧" class="headerlink" title="电视剧"></a>电视剧</h1><p>[1]行尸走肉第一季——第十季（140集）<br>[2]血疫第一季（6集）<br>[3]新世界（70集）<br>[4]想见你（3集）<br>[5]决胜法庭（3集）<br>[6]海贼王（920-935集）<br>[7]汉尼拔第一季（1-4集）<br>[8]重生（1-25集）<br>[9]sex education 第一季（1-8集）<br>[10]sex education 第二季（1-8集）<br>[11]大群 第一季（1-3集）<br>[12]爱,死亡和机器人（1-2集）<br>[13]猎狐（1-44集）<br>[14]王国 第一季（1-6集）<br>[15]王国 第二季（1-6集）<br>[16]天地粮人（1-22集）<br>[17]人民的名义（1-24集）<br>[18]进击的巨人第三季（1-22集）<br>[19]安家 （1-32集）<br>[20]斯巴达克斯:血与沙 第一季（1-13集）<br>[21]斯巴达克斯：复仇 第二季（1-10集）<br>[22]斯巴达克斯：诅咒者之战 第三季（1-集）<br>[23]隐秘的角落 （1-12集）<br>[24]妖精的尾巴 （293-328集）<br>[25]传闻中的陈芊芊 （1-24集）<br>[26]太子妃升职记 （1-集）<br>[28]局中人 （1-49集）<br>[29]名侦探柯南 （1-集）<br>[30]普通人 （1-集）<br>[31]穿越火线2020 （1-36集）<br>[32]河神2 （1-3集）<br>[33]盗墓笔记重启之极海听雷 （1-32集）<br>[34]三十而已 （1-43集）<br>[35]锦衣之下 （1-集）<br>[36]鬼灭之刃 （1-26集）<br>[37]二十不惑 （1-42集）<br>[38]痕迹 （1-36集）<br>[39]好兆头 （1-集）<br>[40]Sex life （1-8集）<br>[41]越狱第五季 （1-9集）<br>[42]异星灾变 （1-4集）<br>[43]寒武纪 （1-8集）</p>
+<blockquote>
+<div align="center">I could see it in your eyes, that you honestly believed that I didn't want you anymore.</div>
+<p align="right">——Stephenie Meyer《The Twilight Saga： New Moon》</p> 
+</blockquote>
+]]></content>
+      <categories>
+        <category>观影</category>
+      </categories>
+      <tags>
+        <tag>电影</tag>
+        <tag>电视剧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo-Github搭建博客过程</title>
+    <url>/post/e8355efa.html</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>起初也是心血来潮想弄个博客玩，以前也有过这种想法，于是为了不再拖延，就立马行动起来了。这个博客搭建的磕磕绊绊的，但最后还是弄出来了，很简单，就是很琐碎，花费了七天，当然也是抽空弄得。</p>
+<a id="more"></a>
+
+<p>中间进过很多坑，有一些细微的地方没有注意就会出错导致网页刷不出来，而且有些教程发布的有些许久远，不太适合现在的环境，耽误了很多时间。博客是根据我目前（2020年9月）的Next的版本（v7.8.0）并基于Github搭建的，所以，你首先要有个<a href="https://github.com/">Github</a>账号！</p>
+<h1 id="Github"><a href="#Github" class="headerlink" title="Github"></a>Github</h1><p>Github是一个开源的平台，里面有很多程序员开发的代码可以共享，我们的个人博客就托管于github这个平台。为什么选择github呢？因为穷啊！！！在搭建这个博客的前一天，突然看到阿里云的轻量应用服务器需要交费三个月及以上才能给我注册的域名备案（域名注册后需要三天才能备案），域名阿里云新用户第一年6元，往后是69¥/年，轻量型服务器（1核CPU、1GB内存、1Mbps带宽、20GB SSD）配置费用一年612¥，果断告辞，个人玩家不配拥有！！！</p>
+<p>这时，github映入我的眼帘，在参考网上诸多博客之后，就它了。毕竟有个闲置N年的github账号一直没机会用，机会终于来了，看吧，成功是给有准备的人的！关于github注册账号，没有的人简单注册一个就行，不用太花里胡哨，用英文名或者中文名拼音当用户名方便点，这个用户名就是你个人博客网址的主体部分，比如我的:<code>miaoshitong.github.io</code>  ,有域名的后期博客建好了可以解析一下，这样域名也能登你博客，不过目前阶段暂不需要。</p>
+<h2 id="Jekyll-amp-Hexo"><a href="#Jekyll-amp-Hexo" class="headerlink" title="Jekyll &amp; Hexo"></a>Jekyll &amp; Hexo</h2><p>选好博客的托管平台了，后面就是选择适合的博客框架。网上看用的比较多的有 Jekyll和Hexo，下面分别简单介绍一下吧。</p>
+<h3 id="Jekyll"><a href="#Jekyll" class="headerlink" title="Jekyll"></a>Jekyll</h3><p><a href="http://jekyllthemes.org/">Jekyll官网</a>提供的主题不好看(个人观点)。</p>
+<h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><p><a href="https://hexo.io/zh-cn/">Hexo官网</a>提供的主题好看(很多人观点)。</p>
+<h3 id="你的选择"><a href="#你的选择" class="headerlink" title="你的选择"></a>你的选择</h3><p>经过上面详细的对比，你一定选的也是Hexo，所以我们有了共同的基础，可以进行下一步了。目前Hexo有324款主题，但作为初次尝试建博客的小白（是我）来说，还是遵从一下主流的选择：<strong>Next</strong>，你选不了吃亏，选不了上当，很多博主的博客都是根据Next改的，到时候可以一点一点模仿，减少犯错成本。</p>
+<h4 id="安装-Git"><a href="#安装-Git" class="headerlink" title="安装 Git"></a>安装 Git</h4><p>先根据你电脑安装个<a href="https://git-scm.com/download/win">git</a>，后面需要一些指令来简化博客搭建过程。下载之后，一直<code>next</code>就可以了。安装后在Hexo文件夹右键单击选择<code>Git Bash Here</code>，会出现一个可以输入代码的小黑框，常用的命令如下：</p>
+<table>
+<thead>
+<tr>
+<th>代码</th>
+<th>作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>$ hexo n &quot;博客名称&quot;</code></td>
+<td>创建新文章</td>
+</tr>
+<tr>
+<td><code>$ hexo clean</code></td>
+<td>清除缓存网页</td>
+</tr>
+<tr>
+<td><code>$ hexo g</code></td>
+<td>生成静态网页</td>
+</tr>
+<tr>
+<td><code>$ hexo s</code></td>
+<td>本地预览网页（<a href="http://localhost:4000），还可以通过程序反馈找出错误地方">http://localhost:4000），还可以通过程序反馈找出错误地方</a></td>
+</tr>
+<tr>
+<td><code>$ hexo d</code></td>
+<td>部署到Github，即发布网页正常浏览</td>
+</tr>
+</tbody></table>
+<p>一般操作就是<code>clean、g、s</code>三连，没啥问题就<code>$ hexo d</code></p>
+<h4 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h4><p>接下来就需要安装Hexo了，<a href="https://hexo.io/zh-cn/">官方</a>有教程，同时也找了一个比较清晰易懂的<a href="https://www.mintimate.cn/2020/03/19/hexo/">博客</a>可以学习。</p>
+<h1 id="Next"><a href="#Next" class="headerlink" title="Next"></a>Next</h1><h2 id="Next安装"><a href="#Next安装" class="headerlink" title="Next安装"></a>Next安装</h2><p>接下来就是安装博客主题Next了，在Hexo文件夹里有个themes文件夹，里面的默认主题是landscape，通过git下载好Next后，把landscape文件夹删除，并且把next文件夹下面有个名字有git的文件夹也删除，起初两天主题更改不成功问题就出在这里，经过多方面资料查找，算是解决了。</p>
+<h2 id="Next配置"><a href="#Next配置" class="headerlink" title="Next配置"></a>Next配置</h2><p>最主要一点，很多教程提及的<code>.swig</code>文件在新版Next中找不到，没关系，经过我的探索，应该就是后缀名<code>.njk</code>的相应文件，打开方式<code>记事本</code>就能编辑了。</p>
+<p>新版的Next里面没有<code>_custom.styl</code>文件，很多教程在配置Next的时候会用到，没关系，来看下<a href="https://tding.top/archives/2bd6d82.html">大佬的博客</a>，有解决方法。</p>
+<p>还有一点，对小白（是我）来说，刚开始可能分不清，关于博客的配置有两个地方，一个是hexo文件夹下面的<code>_config.yml</code>文件，这个叫<code>站点配置</code>，还有一个是themes中<code>next</code>文件夹下面的<code>_config.yml</code>文件，这个地方叫<code>主题配置</code>，相应的配置细节问题网上搜素一下就可以自定义了。</p>
+<p>在配置完成的时候，一定先<code>$ hexo s</code>本地预览一下，代码有错误在小黑框里能看出来，会有相应的提示，根据说明来把问题解决，没有问题本地预览一下也能让小白（是我）安心，部署到github出错就很慌，预览也就几秒不耽搁事。</p>
+<p>最让我惊喜的地方是，在Hexo搭建博客页面还可以插入<a href="https://www.cnblogs.com/cczlovexw/p/12214618.html">2D模型</a>，22款模型，总有一款适合你。</p>
+<h1 id="博客建好了"><a href="#博客建好了" class="headerlink" title="博客建好了"></a>博客建好了</h1><p>流程很简单，但是对没接触过的人来说会有些陌生，尝试两三天就会对这个有个大致了解，能把博客搭建出来。不过博客也不用太花哨，内容最重要，还要坚持记录才行，大概的框架搭好，看着顺眼，就可以使用了！</p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Github</tag>
+        <tag>博客搭建</tag>
+      </tags>
   </entry>
 </search>
