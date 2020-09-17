@@ -109,6 +109,20 @@
 
   
   <url>
+    <loc>http://miaoshitong.github.io/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2020-09-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://miaoshitong.github.io/tags/%E7%94%B5%E8%A7%86%E5%89%A7/</loc>
+    <lastmod>2020-09-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://miaoshitong.github.io/tags/Hexo/</loc>
     <lastmod>2020-09-17</lastmod>
     <changefreq>daily</changefreq>
@@ -159,20 +173,6 @@
   
   <url>
     <loc>http://miaoshitong.github.io/tags/%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6/</loc>
-    <lastmod>2020-09-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://miaoshitong.github.io/tags/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2020-09-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://miaoshitong.github.io/tags/%E7%94%B5%E8%A7%86%E5%89%A7/</loc>
     <lastmod>2020-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -272,6 +272,13 @@
 
   
   <url>
+    <loc>http://miaoshitong.github.io/categories/%E8%A7%82%E5%BD%B1/</loc>
+    <lastmod>2020-09-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://miaoshitong.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2020-09-17</lastmod>
     <changefreq>daily</changefreq>
@@ -286,7 +293,7 @@
   </url>
   
   <url>
-    <loc>http://miaoshitong.github.io/categories/%E8%A7%82%E5%BD%B1/</loc>
+    <loc>http://miaoshitong.github.io/categories/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2020-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -294,13 +301,6 @@
   
   <url>
     <loc>http://miaoshitong.github.io/categories/%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB/%E3%80%8A%E7%AE%A1%E7%90%86%E4%B8%96%E7%95%8C%E3%80%8B/</loc>
-    <lastmod>2020-09-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://miaoshitong.github.io/categories/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2020-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
