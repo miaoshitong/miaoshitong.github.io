@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Excel之vlookup函数</title>
+    <url>/post/c554816.html</url>
+    <content><![CDATA[<p>函数的语法为：<br>VLOOKUP(要找谁,在哪儿找,返回第几列的内容,精确找还是近似找)</p>
+<a id="more"></a>
+
+<p>第一参数是要在表格或区域的第一列中查询的值。<br>第二参数是需要查询的单元格区域，这个区域中的首列必须要包含查询值，否则公式将返回错误值。如果查询区域中包含多个符合条件的查询值，VLOOKUP函数只能返回第一个查找到的结果。<br>第三参数用于指定返回查询区域中第几列的值，该参数如果超出待查询区域的总列数，VLOOKUP函数将返回错误值#REF!，如果小于1返回错误值#VALUE!。<br>第四参数决定函数的查找方式，如果为0或FASLE，用精确匹配方式，而且支持无序查找；如果为TRUE或被省略，则使用近似匹配方式，同时要求查询区域的首列按升序排序。</p>
+<h1 id="主要有以下几种作用："><a href="#主要有以下几种作用：" class="headerlink" title="主要有以下几种作用："></a><strong>主要有以下几种作用：</strong></h1><ul>
+<li>常规查询</li>
+<li>带通配符的查询</li>
+<li>近似查询</li>
+<li>逆向查询</li>
+<li>多条件查询</li>
+<li>一对多查询</li>
+<li>按指定次数重复数据</li>
+</ul>
+<p>注：</p>
+<ul>
+<li>VLOOKUP函数第三参数中的列号，不能理解为工作表中实际的列号，而是指定要返回查询区域中第几列的值。</li>
+<li>通配符“*”表示任意多个字符。</li>
+<li>VLOOKUP函数第四参数被省略，在近似匹配模式下返回查询值的精确匹配值或近似匹配值。如果找不到精确匹配值，则返回小于查询值的最大值。</li>
+<li>使用近似匹配时，查询区域的首列必须按升序排序，否则无法得到正确的结果。</li>
+<li>VLOOKUP函数的查询值要求必须位于查询区域中的首列，如果被查找值不在数据表的首列时，需要先将目标数据进行特殊的转换。</li>
+<li>CHOOSE函数第一参数使用常量数组{1,2}，将查询值所在的D2:D11和返回值所在的C2:C11整合成一个新的两列多行的内存数组。</li>
+</ul>
+<h1 id="详细使用教程："><a href="#详细使用教程：" class="headerlink" title="详细使用教程："></a><strong>详细使用教程：</strong></h1><ul>
+<li><a href="http://www.excelhome.net/lesson/article/excel/1872.html">教程1</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1603886666150544094&wfr=spider&for=pc">教程2</a></li>
+<li><a href="http://soft.zol.com.cn/jingyan/58820_all.html">教程3</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+        <category>Excel</category>
+      </categories>
+      <tags>
+        <tag>vlookup函数</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>临时手机号（接收验证码）</title>
     <url>/post/2b75316f.html</url>
     <content><![CDATA[<p>厌倦了陌生APP、网站要求提供手机号码进行注册、获取验证码，为了保护个人信息不想发送自己手机号。</p>
@@ -143,6 +182,7 @@
 <p>综上，毛主席与习主席的翻译用词不同，根本原因在于他俩的这个“主席”并非同一职务，一个是党主席，而另一个是国家主席。</p>
 ]]></content>
       <categories>
+        <category>学习笔记</category>
         <category>英语学习</category>
       </categories>
       <tags>
@@ -333,6 +373,7 @@
 <h2 id="研究局限"><a href="#研究局限" class="headerlink" title="研究局限"></a>研究局限</h2><p>本研究采用横断式调查法，只能研究变量间的并发性关系，且数据的收集采用自我报告式问卷法，调查对象可能对真实信息做出一定的隐瞒，并且研究本身会受到很多意外因素的影响，如答题者答题环境的干扰和情绪波动等，这些因素都会影响研究结果。未来的研究可以通过多种测量方法，如眼动实验和事件相关电位法，对变量进行更精准的测量，并尝试采用纵向追踪或者情境实验的方法，对变量之间更深层次的因果关系进行分析。</p>
 ]]></content>
       <categories>
+        <category>学习笔记</category>
         <category>文献阅读</category>
         <category>《外国经济与管理》</category>
       </categories>
@@ -538,6 +579,7 @@
 </ul>
 ]]></content>
       <categories>
+        <category>学习笔记</category>
         <category>英语学习</category>
       </categories>
       <tags>
@@ -631,6 +673,7 @@
 </ol>
 ]]></content>
       <categories>
+        <category>学习笔记</category>
         <category>文献阅读</category>
         <category>《管理世界》</category>
       </categories>
