@@ -120,7 +120,70 @@
 <p>擅长搜索的人不仅能节省时间，还会找到质量更高、更可信、更有用的内容。正如塞缪尔·约翰逊(Samuel Johnson)所写，知识有两种：我们自己了解一门学科，或是知道在哪里可以找到有关它的信息。</p>
 <p>当看到书籍和文章声称某些信息是真实的，却不告诉你来源或他们是如何知道它时，会让人很沮丧，因为所有的信息都在一个我们未曾发现的角落。</p>
 <p>有时候我们很想了解信息背后的故事，怎么知道这个信息？在哪里知道的？网络世界拥有大量的资源，但大多数人并不真正了解如何有效地使用它们。我们今天拥有的电脑处理器信息处理能力远远远强过十几年前，还有各种各样的搜索引擎，以及一些我们从未想过的工具，只是我们不知道如何很好地使用。</p>
-<h1 id="如何使用多个信息源来锁定一个资源"><a href="#如何使用多个信息源来锁定一个资源" class="headerlink" title="如何使用多个信息源来锁定一个资源"></a>如何使用多个信息源来锁定一个资源</h1>]]></content>
+<h1 id="如何使用多个信息源来锁定一个资源"><a href="#如何使用多个信息源来锁定一个资源" class="headerlink" title="如何使用多个信息源来锁定一个资源"></a>如何使用多个信息源来锁定一个资源</h1><p>问题1：摄影师站在那里拍的这张照片（图2.1）？</p>
+ <div align="center"><img src="/post/40c6a1e/01.jpg" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+<div align="center">图2.1</div>
+
+<p><code>备注：以下操作部分需要翻墙！</code></p>
+<p>观察细节，两个大楼上的logo以及左下角的图画，先放大左下角的图画（图2.2）：</p>
+ <div align="center"><img src="/post/40c6a1e/02.jpg" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+<div align="center">图2.2</div>
+
+<p>会发现是一个有邮戳的邮票壁画，然后快速搜索世界各国的国旗<code>flags of the world</code>在谷歌搜索里，会得到一个有世界各国国旗的图表（图2.3）：</p>
+ <div align="center"><img src="/post/40c6a1e/03.jpg" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+<div align="center">图2.3</div>
+
+<p>点击其中一个，你会发现邮票上是一面剪裁奇怪的埃及国旗。所以照片是在埃及某个地方拍的么？快速回顾一下城市的建筑的布局，这里并不是埃及。这个邮票图案是个错误的引子，我们暂时忽略国旗，看看照片里的其他线索。</p>
+<p>看一下最明显的大楼上logo写着“TP”，试着谷歌查询<code>tp logo</code>，没有收获，不断改变关键词来描述我们看到的，当查询<code>tp office building</code>时，惊喜来了，这是位于波兰华沙的Telekomunikacja Polska大楼。</p>
+<p>在维基百科上快速搜索确认信息，会知道TP楼现在叫“Spektrum Tower”,以前叫”TP S.A. Tower“（图2.4）</p>
+ <div align="center"><img src="/post/40c6a1e/04.jpg" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+<div align="center">图2.4</div>
+
+<p>还可以通过谷歌图像搜索公司名称来解决这个问题<code>Telekomunikacja Polska</code> TP标志会出现在谷歌图像结果的第一页，它会引导你进入Polska电视台的网站。</p>
+<p>通过以上，我们很容易就知道TP楼的地址：14/16 Twarda Street, Warsaw（图2.5）</p>
+ <div align="center"><img src="/post/40c6a1e/05.jpg" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+<div align="center">图2.5</div>
+
+<p>当然，总是有多种方法可以找到照片的位置，照片的城市风景中充满了线索。</p>
+<p>害，作者没给原图，书里说的“PZU标志的建筑“我找不到！不过拍照的大地点已经找到了——华沙（Warsaw），下一步就是照片是站在哪拍的。</p>
+<p>用谷歌街景地图（国内的话百度街景貌似用着还行，不过一些乡、镇地区还有街角小巷就看不到街景）看华沙市区，但是并不能确认这个拍摄的角度，就此作罢。</p>
+<p>但这个问题很适用于Google地球（各种工具在心中随意切换），于是在Google地球中搜索<code>TP building at 14/16 Twarda Street</code>，我能够获得与在Google地图中看到的完全相同的视图。如果你打开3D建筑图层，你会得到一个不同的视角，不仅可以看到所有的卫星图像，还可以看到市中心的所有主要建筑（这个功能以后可以尝试看看）。</p>
+<p>然后作者老兄在Google地球里四处移动视点，直到视图与照片基本对齐位置，一旦有了与照片相匹配的视图(通过排列建筑物来实现)，就在Google地球上转过我的视图去看我身后的建筑，也就是拍照的那座。（图2.6）</p>
+ <div align="center"><img src="/post/40c6a1e/06.jpg" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+<div align="center">图2.6</div>
+
+<p>在谷歌地球中，双击一个3D建筑会给你有关该建筑的信息：这里是华沙金融中心（Warsaw Financial Center）。接下来就是找出拍摄者所在的楼层。可以通过观察视图的高度来估计（这是谷歌地球在右下角告诉你的）。从这个数字(120米)，我们可以猜测我们在15楼左右（作者认为这个建筑一层楼有8米高，普通的居民楼一层肯定不会这么高）。但如果我们要得知确切的楼层，需要一些额外的侦查工作。</p>
+<p>在刚开始看照片的时候，我们也许会看到照片上有些蓝色条纹，放大它，在谷歌地球上移动视点时，会找到3D建筑视图模式上与原始图像几乎相同的位置。（图2.7）</p>
+ <div align="center"><img src="/post/40c6a1e/07.jpg" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+<div align="center">图2.7</div>
+
+<p>a）原照片被裁剪得只剩下窗户上斑点状的倒影。<br>b)如果你水平翻转那个图像(就像在镜子里看着它一样)，一个单词就会出现。<br>c)稍微放大一点，然后加强对比，徽标是什么就很清楚了。</p>
+<p>对蓝色条纹部分进行处理，作者用Adobe Photoshop，但几乎所有的图像编辑器都可以这样做。最后明显看出这个是Google的标志，作者朋友拍这张照片的时候正在谷歌在华沙的办公室里。</p>
+<p>搜索<code>Google office Warsaw</code>，在谷歌办公室网页上找到华沙金融中心的谷歌办公室，那一页告诉我们确切的楼层(十楼)和电话号码。</p>
+<p>搜索<code>Google offices Warsaw</code>，可以在谷歌公司办公室网站上找到相关信息： <a href="http://www.google.com/about/locations/">www.google.com/about/locations/</a> .</p>
+<p>Google Warsaw</p>
+<p>Warsaw Financial Center</p>
+<p>Emilii Plater 53</p>
+<p>00–113 Warszawa</p>
+<p>Poland</p>
+<p>Phone: +48 22 207 19 00</p>
+<p>Fax: +48 22 207 19 21</p>
+<p>一旦有了这些信息，很容易就能算出谷歌办公室在10楼。</p>
+]]></content>
       <categories>
         <category>书籍</category>
         <category>The Joy of Search</category>
