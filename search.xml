@@ -1,6 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>中介效应与调节效应</title>
+    <url>/post/2d1ed39b.html</url>
+    <content><![CDATA[<p>简单的两个变量之间加入一个调节、单个中介变量都好分析，不好理解的是<code>有调节的中介</code>（Moderated Mediation）和有<code>中介的调节</code>（（Mediated Moderation））。</p>
+<a id="more"></a>
+
+<h1 id="中介"><a href="#中介" class="headerlink" title="中介"></a>中介</h1><p>可以这样理解：</p>
+<p><code>有调节的中介</code>是指自变量和调节变量对因变量的交互影响受到中介变量的中介作用。</p>
+<p><code>有中介的调节</code>是指自变量通过中介变量最终影响因变量的路径受到调节变量的调节作用。</p>
+<p>也就是四个变量：自变量、中介变量、因变量、调节变量，有哪个那个在前面。<code>有调节的中介</code>，调节在前面，指的就是自变量跟调节变量的交互；<code>有中介的调节</code>，中介在前面，就把调节放在中介变量和因变量之间。</p>
+<p>中介效应里还有一类也要注意，多步中介。A→B→C→D，其中B和C为中介变量。</p>
+<p>中介效应检验，操作的是SPSS里的一个插件——Process（图1所示）。</p>
+ <div align="center"><img src="/post/undefined/01.png" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+ <div align="center">图1
+      </div>
+
+<p>打开后的界面如图2：</p>
+ <div align="center"><img src="/post/undefined/02.png" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+ <div align="center">图2
+      </div>
+
+<p>其中的Model number，常用的有<code>4</code>和<code>6</code>。中介变量为一个时选<code>4</code>，多步中介选6。</p>
+<p>置信区间<code>95</code></p>
+<p>Bootstrap样本量<code>5000</code></p>
+<p>结果主要看下图部分（图3所示）：</p>
+ <div align="center"><img src="/post/undefined/03.png" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+ <div align="center">图3
+      </div>
+
+<p>中介效应的路径看<code>Indirect effect key</code>，</p>
+<p>相应的系数看<code>Indirect effect(s) of X on Y</code>，效应量大小<code>Effect</code>，显著性看 <code>BootLLCI——   BootULCI区间</code>中是否包含0：</p>
+<p><strong>包含0，不显著</strong></p>
+<p><strong>不包含0，显著</strong></p>
+<p>至于<code>Direct effect of X on Y</code>则是看完全中介OR部分中介。同上，显著则部分中介，不显著则完全中介。</p>
+<h1 id="调节"><a href="#调节" class="headerlink" title="调节"></a>调节</h1><p>对自变量和调节变量进行中心化（Mean Centering），即分别减去各自的平均数，把中心化后的自变量和调节变量相乘，得到交乘项（调节效应项）。</p>
+<p>本例中首先将自变量感知有用性和调节变量环境意识去中心化，然后构建交互项。第一步将控制变量引入回归，得到模型1；第二步将自变量感知有用性引入回归，得到模型2；第三步将调节变量引入回归，得到模型3，第四步将构建的感知有用性×环境意识交互项引入回归，得到模型4。SPSS检验的结果如图4所示：</p>
+ <div align="center"><img src="/post/undefined/04.png" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+ <div align="center">图4
+      </div>
+
+<p>然后主要看为标准化系数B和t的显著性。</p>
+<p>标准化系数B部分有个常量，这个是截距</p>
+<p>t的显著性部分，看将交互项加入后的模型4，看交互项是否显著，如果显著，再看加入交互项之前的模型3，如果不显著，这时调节效应就成立了。也就是加入调节项之前，自变量跟因变量之间的关系是不显著的，但加入调节项之后，这个关系就显著了，所以调节是存在的。</p>
+<p>调节存在，最好画个调节效应图（图5所示）：</p>
+ <div align="center"><img src="/post/undefined/05.png" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+ <div align="center">图5
+      </div>
+
+<p>这个调节图用的是Excel，有个专门的<a href="http://www.jeremydawson.co.uk/slopes.htm">表格</a>可以制作调节图，数据往里面对应着输入就出来了，如图6所示：</p>
+ <div align="center"><img src="/post/undefined/06.png" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+ <div align="center">图6
+      </div>
+
+<p>表格的系数数值看<code>模型4</code>（加入交互项的模型）<code>标准化系数B</code>部分：</p>
+<p>自变量：0.345</p>
+<p>调节变量：0.137</p>
+<p>交互项：0.103</p>
+<p>Intercept / Constant（截距）常数项: 常量 1.834，但个人感觉在不影响两条线斜率的情况下，可以调一下截距，把图放在正中间。</p>
+<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><p>[1]陈瑞,郑毓煌,刘文静.中介效应分析:原理、程序、Bootstrap方法及其应用[J].营销科学学报,2013,9(04):120-135.</p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+        <category>SPSS</category>
+      </categories>
+      <tags>
+        <tag>中介效应</tag>
+        <tag>调节效应</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>沉默的真相</title>
     <url>/post/f1361e83.html</url>
     <content><![CDATA[<p>“你什么时候能抓到坏蛋？”</p>
