@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://miaoshitong.github.io/about/index.html</loc>
+    
+    <lastmod>2020-09-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://miaoshitong.github.io/post/2d1ed39b.html</loc>
     
     <lastmod>2020-09-27</lastmod>
@@ -131,13 +138,6 @@
     <loc>http://miaoshitong.github.io/post/fea64d79.html</loc>
     
     <lastmod>2020-09-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://miaoshitong.github.io/about/index.html</loc>
-    
-    <lastmod>2020-09-16</lastmod>
     
   </url>
   
