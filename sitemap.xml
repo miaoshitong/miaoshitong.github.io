@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://miaoshitong.github.io/post/a40643d3.html</loc>
+    <loc>http://miaoshitong.github.io/post/143a08c2.html</loc>
+    
+    <lastmod>2020-09-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://miaoshitong.github.io/post/2d1ed39b.html</loc>
     
     <lastmod>2020-09-29</lastmod>
     
@@ -16,14 +23,14 @@
   </url>
   
   <url>
-    <loc>http://miaoshitong.github.io/about/index.html</loc>
+    <loc>http://miaoshitong.github.io/post/a40643d3.html</loc>
     
-    <lastmod>2020-09-27</lastmod>
+    <lastmod>2020-09-29</lastmod>
     
   </url>
   
   <url>
-    <loc>http://miaoshitong.github.io/post/2d1ed39b.html</loc>
+    <loc>http://miaoshitong.github.io/about/index.html</loc>
     
     <lastmod>2020-09-27</lastmod>
     
@@ -326,6 +333,13 @@
   </url>
   
   <url>
+    <loc>http://miaoshitong.github.io/tags/%E5%A4%9A%E7%BE%A4%E7%BB%84%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2020-09-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://miaoshitong.github.io/tags/%E6%B3%95%E5%8C%BB/</loc>
     <lastmod>2020-09-29</lastmod>
     <changefreq>daily</changefreq>
@@ -531,7 +545,7 @@
   </url>
   
   <url>
-    <loc>http://miaoshitong.github.io/categories/%E4%B9%A6%E7%B1%8D/</loc>
+    <loc>http://miaoshitong.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/AMOS/</loc>
     <lastmod>2020-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -539,6 +553,13 @@
   
   <url>
     <loc>http://miaoshitong.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Excel/</loc>
+    <lastmod>2020-09-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://miaoshitong.github.io/categories/%E4%B9%A6%E7%B1%8D/</loc>
     <lastmod>2020-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
