@@ -650,13 +650,6 @@
   </url>
   
   <url>
-    <loc>http://miaoshitong.github.io/categories/%E5%87%BA%E6%B8%B8/</loc>
-    <lastmod>2020-10-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://miaoshitong.github.io/categories/%E7%9C%8B%E5%89%A7/%E4%BA%BA%E7%89%A9%E5%85%B3%E7%B3%BB%E5%9B%BE/</loc>
     <lastmod>2020-10-09</lastmod>
     <changefreq>daily</changefreq>
@@ -679,6 +672,13 @@
   
   <url>
     <loc>http://miaoshitong.github.io/categories/%E4%B9%A6%E7%B1%8D/The-Model-Thinker/</loc>
+    <lastmod>2020-10-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://miaoshitong.github.io/categories/%E5%87%BA%E6%B8%B8/</loc>
     <lastmod>2020-10-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
