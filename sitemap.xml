@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://miaoshitong.github.io/post/5040e3ae.html</loc>
+    
+    <lastmod>2020-10-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://miaoshitong.github.io/post/66d5c3a0.html</loc>
     
     <lastmod>2020-10-10</lastmod>
@@ -355,6 +362,13 @@
   
   <url>
     <loc>http://miaoshitong.github.io/tags/Sci-Hub/</loc>
+    <lastmod>2020-10-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://miaoshitong.github.io/tags/TED/</loc>
     <lastmod>2020-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
