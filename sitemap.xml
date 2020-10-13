@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://miaoshitong.github.io/post/9e465042.html</loc>
+    
+    <lastmod>2020-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://miaoshitong.github.io/post/3e7d096a.html</loc>
+    
+    <lastmod>2020-10-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://miaoshitong.github.io/post/33675eb1.html</loc>
     
     <lastmod>2020-10-13</lastmod>
@@ -101,13 +115,6 @@
   
   <url>
     <loc>http://miaoshitong.github.io/post/143a08c2.html</loc>
-    
-    <lastmod>2020-09-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://miaoshitong.github.io/post/3e7d096a.html</loc>
     
     <lastmod>2020-09-29</lastmod>
     
@@ -494,6 +501,13 @@
   </url>
   
   <url>
+    <loc>http://miaoshitong.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2020-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://miaoshitong.github.io/tags/%E4%B8%AD%E4%BB%8B%E6%95%88%E5%BA%94/</loc>
     <lastmod>2020-10-13</lastmod>
     <changefreq>daily</changefreq>
@@ -735,6 +749,13 @@
   
   <url>
     <loc>http://miaoshitong.github.io/categories/%E4%B9%A6%E7%B1%8D/The-Model-Thinker/</loc>
+    <lastmod>2020-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://miaoshitong.github.io/categories/%E4%B9%A6%E7%B1%8D/%E8%AE%BA%E5%B7%A5%E4%B8%9A%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E6%9C%AA%E6%9D%A5/</loc>
     <lastmod>2020-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
