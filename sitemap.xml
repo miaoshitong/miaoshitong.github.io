@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://miaoshitong.github.io/post/8320a015.html</loc>
+    
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://miaoshitong.github.io/post/66d5c3a0.html</loc>
+    
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://miaoshitong.github.io/post/1803efa4.html</loc>
     
     <lastmod>2020-10-14</lastmod>
@@ -17,13 +31,6 @@
   
   <url>
     <loc>http://miaoshitong.github.io/post/40c6a1e.html</loc>
-    
-    <lastmod>2020-10-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://miaoshitong.github.io/post/66d5c3a0.html</loc>
     
     <lastmod>2020-10-14</lastmod>
     
@@ -298,6 +305,13 @@
 
   
   <url>
+    <loc>http://miaoshitong.github.io/tags/%E8%87%AA%E6%9D%80/</loc>
+    <lastmod>2020-10-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://miaoshitong.github.io/tags/%E7%94%B5%E5%BD%B1/</loc>
     <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
@@ -545,6 +559,13 @@
 
   
   <url>
+    <loc>http://miaoshitong.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2020-10-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://miaoshitong.github.io/categories/%E8%A7%82%E5%BD%B1/</loc>
     <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
@@ -553,13 +574,6 @@
   
   <url>
     <loc>http://miaoshitong.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2020-10-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://miaoshitong.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Excel/</loc>
     <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -580,14 +594,14 @@
   </url>
   
   <url>
-    <loc>http://miaoshitong.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://miaoshitong.github.io/categories/%E6%9C%89%E8%B6%A3/</loc>
     <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://miaoshitong.github.io/categories/%E6%9C%89%E8%B6%A3/</loc>
+    <loc>http://miaoshitong.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -601,7 +615,7 @@
   </url>
   
   <url>
-    <loc>http://miaoshitong.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>http://miaoshitong.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Excel/</loc>
     <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
